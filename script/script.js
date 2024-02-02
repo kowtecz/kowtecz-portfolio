@@ -45,3 +45,11 @@ var urlDeDestinoOito = "https://drive.google.com/file/d/1uV8R1J_nHfLcizYwPooQl4R
 BotaoOito.addEventListener("click", function() {
  window.location.href = urlDeDestinoOito;
 });
+
+
+
+var BotaoNove = document.getElementById("btnSaau");
+var urlDeDestinoNove = "https://saau.vercel.app/";
+BotaoNove.addEventListener("click", function() {
+ window.location.href = urlDeDestinoNove;
+});
