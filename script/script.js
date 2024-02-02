@@ -41,7 +41,7 @@ BotaoSete.addEventListener("click", function() {
 });
 
 var BotaoOito = document.getElementById("btnAfa");
-var urlDeDestinoSete = "https://drive.google.com/file/d/1uV8R1J_nHfLcizYwPooQl4Rq89FmSQmf/view?usp=sharing";
-BotaoSete.addEventListener("click", function() {
+var urlDeDestinoOito = "https://drive.google.com/file/d/1uV8R1J_nHfLcizYwPooQl4Rq89FmSQmf/view?usp=sharing";
+BotaoOito.addEventListener("click", function() {
  window.location.href = urlDeDestinoOito;
 });
